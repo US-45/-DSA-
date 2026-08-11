@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/US-45/-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/US-45/-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/US-45/-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
 | [2460-apply-operations-to-an-array](https://github.com/US-45/-DSA-/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/US-45/-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/US-45/-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/US-45/-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
 | [2460-apply-operations-to-an-array](https://github.com/US-45/-DSA-/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/US-45/-DSA-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/US-45/-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -62,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/US-45/-DSA-/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
