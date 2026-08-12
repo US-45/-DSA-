@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/US-45/-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/US-45/-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/US-45/-DSA-/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/US-45/-DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2460-apply-operations-to-an-array](https://github.com/US-45/-DSA-/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/US-45/-DSA-/tree/master/0605-can-place-flowers) |
 ## Quicksort
 |  |
 | ------- |
