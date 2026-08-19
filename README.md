@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/US-45/-DSA-/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/US-45/-DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2460-apply-operations-to-an-array](https://github.com/US-45/-DSA-/tree/master/2460-apply-operations-to-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/US-45/-DSA-/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/US-45/-DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/US-45/-DSA-/tree/master/2460-apply-operations-to-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/US-45/-DSA-/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
