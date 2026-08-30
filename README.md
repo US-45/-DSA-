@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/US-45/-DSA-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/US-45/-DSA-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/US-45/-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/US-45/-DSA-/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/US-45/-DSA-/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/US-45/-DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/US-45/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/US-45/-DSA-/tree/master/0125-valid-palindrome) |
+| [0771-jewels-and-stones](https://github.com/US-45/-DSA-/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/US-45/-DSA-/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/US-45/-DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
