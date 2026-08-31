@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/US-45/-DSA-/tree/master/0896-monotonic-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/US-45/-DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/US-45/-DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/US-45/-DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/US-45/-DSA-/tree/master/2460-apply-operations-to-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/US-45/-DSA-/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/US-45/-DSA-/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/US-45/-DSA-/tree/master/0605-can-place-flowers) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/US-45/-DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Quicksort
 |  |
 | ------- |
