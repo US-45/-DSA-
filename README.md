@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/US-45/-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/US-45/-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/US-45/-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/US-45/-DSA-/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/US-45/-DSA-/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/US-45/-DSA-/tree/master/0896-monotonic-array) |
