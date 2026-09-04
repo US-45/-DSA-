@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/US-45/-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
 | [2460-apply-operations-to-an-array](https://github.com/US-45/-DSA-/tree/master/2460-apply-operations-to-an-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/US-45/-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/US-45/-DSA-/tree/master/0605-can-place-flowers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/US-45/-DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/US-45/-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Quicksort
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/US-45/-DSA-/tree/master/0796-rotate-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/US-45/-DSA-/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/US-45/-DSA-/tree/master/2390-removing-stars-from-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/US-45/-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
