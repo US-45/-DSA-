@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/US-45/-DSA-/tree/master/2460-apply-operations-to-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/US-45/-DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/US-45/-DSA-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/US-45/-DSA-/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/US-45/-DSA-/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/US-45/-DSA-/tree/master/0796-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/US-45/-DSA-/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
