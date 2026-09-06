@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/US-45/-DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/US-45/-DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/US-45/-DSA-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/US-45/-DSA-/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/US-45/-DSA-/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/US-45/-DSA-/tree/master/0796-rotate-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/US-45/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/US-45/-DSA-/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/US-45/-DSA-/tree/master/0115-distinct-subsequences) |
 ## String Matching
 |  |
 | ------- |
