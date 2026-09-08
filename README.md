@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/US-45/-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/US-45/-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/US-45/-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/US-45/-DSA-/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/US-45/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
 | [2460-apply-operations-to-an-array](https://github.com/US-45/-DSA-/tree/master/2460-apply-operations-to-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/US-45/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/US-45/-DSA-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/US-45/-DSA-/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/US-45/-DSA-/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/US-45/-DSA-/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/US-45/-DSA-/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/US-45/-DSA-/tree/master/0796-rotate-string) |
