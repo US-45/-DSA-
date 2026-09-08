@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/US-45/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/US-45/-DSA-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/US-45/-DSA-/tree/master/0125-valid-palindrome) |
+| [0520-detect-capital](https://github.com/US-45/-DSA-/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/US-45/-DSA-/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/US-45/-DSA-/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/US-45/-DSA-/tree/master/0940-distinct-subsequences-ii) |
