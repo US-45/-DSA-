@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/US-45/-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/US-45/-DSA-/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/US-45/-DSA-/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/US-45/-DSA-/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/US-45/-DSA-/tree/master/0896-monotonic-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/US-45/-DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/US-45/-DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/US-45/-DSA-/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/US-45/-DSA-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/US-45/-DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/US-45/-DSA-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/US-45/-DSA-/tree/master/3904-smallest-stable-index-ii) |
