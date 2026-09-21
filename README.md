@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/US-45/-DSA-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/US-45/-DSA-/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/US-45/-DSA-/tree/master/0896-monotonic-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/US-45/-DSA-/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/US-45/-DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/US-45/-DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/US-45/-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/US-45/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/US-45/-DSA-/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/US-45/-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/US-45/-DSA-/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/US-45/-DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/US-45/-DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/US-45/-DSA-/tree/master/3903-smallest-stable-index-i) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/US-45/-DSA-/tree/master/1652-defuse-the-bomb) |
 ## Linked List
 |  |
