@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/US-45/-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/US-45/-DSA-/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/US-45/-DSA-/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/US-45/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/US-45/-DSA-/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/US-45/-DSA-/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/US-45/-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/US-45/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/US-45/-DSA-/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/US-45/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/US-45/-DSA-/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/US-45/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/US-45/-DSA-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/US-45/-DSA-/tree/master/1480-running-sum-of-1d-array) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/US-45/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/US-45/-DSA-/tree/master/1652-defuse-the-bomb) |
 ## Linked List
