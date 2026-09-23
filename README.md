@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/US-45/-DSA-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/US-45/-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/US-45/-DSA-/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/US-45/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/US-45/-DSA-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/US-45/-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/US-45/-DSA-/tree/master/0268-missing-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/US-45/-DSA-/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/US-45/-DSA-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/US-45/-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/US-45/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/US-45/-DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/US-45/-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/US-45/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/US-45/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/US-45/-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/US-45/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/US-45/-DSA-/tree/master/0724-find-pivot-index) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/US-45/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/US-45/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/US-45/-DSA-/tree/master/1652-defuse-the-bomb) |
