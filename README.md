@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/US-45/-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/US-45/-DSA-/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/US-45/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/US-45/-DSA-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/US-45/-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/US-45/-DSA-/tree/master/0682-baseball-game) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/US-45/-DSA-/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/US-45/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/US-45/-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/US-45/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/US-45/-DSA-/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/US-45/-DSA-/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/US-45/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/US-45/-DSA-/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/US-45/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/US-45/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/US-45/-DSA-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
