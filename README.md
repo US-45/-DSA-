@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/US-45/-DSA-/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/US-45/-DSA-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/US-45/-DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/US-45/-DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/US-45/-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Quicksort
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/US-45/-DSA-/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/US-45/-DSA-/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/US-45/-DSA-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/US-45/-DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/US-45/-DSA-/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/US-45/-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/US-45/-DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/US-45/-DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/US-45/-DSA-/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/US-45/-DSA-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/US-45/-DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/US-45/-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/US-45/-DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/US-45/-DSA-/tree/master/2390-removing-stars-from-a-string) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/US-45/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/US-45/-DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/US-45/-DSA-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/US-45/-DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/US-45/-DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bubble Sort
 |  |
