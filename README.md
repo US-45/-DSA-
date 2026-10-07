@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/US-45/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/US-45/-DSA-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/US-45/-DSA-/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/US-45/-DSA-/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/US-45/-DSA-/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/US-45/-DSA-/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/US-45/-DSA-/tree/master/0678-valid-parenthesis-string) |
@@ -290,8 +291,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/US-45/-DSA-/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/US-45/-DSA-/tree/master/0301-remove-invalid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/US-45/-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/US-45/-DSA-/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
