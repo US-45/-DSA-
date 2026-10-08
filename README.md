@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/US-45/-DSA-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/US-45/-DSA-/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/US-45/-DSA-/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/US-45/-DSA-/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/US-45/-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/US-45/-DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/US-45/-DSA-/tree/master/1486-xor-operation-in-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/US-45/-DSA-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/US-45/-DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/US-45/-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/US-45/-DSA-/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/US-45/-DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/US-45/-DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/US-45/-DSA-/tree/master/2351-first-letter-to-appear-twice) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/US-45/-DSA-/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/US-45/-DSA-/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/US-45/-DSA-/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
