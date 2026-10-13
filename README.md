@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/US-45/-DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/US-45/-DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/US-45/-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/US-45/-DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/US-45/-DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/US-45/-DSA-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/US-45/-DSA-/tree/master/3903-smallest-stable-index-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/US-45/-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/US-45/-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/US-45/-DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/US-45/-DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/US-45/-DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/US-45/-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/US-45/-DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/US-45/-DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
