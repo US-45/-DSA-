@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/US-45/-DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/US-45/-DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/US-45/-DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/US-45/-DSA-/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/US-45/-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/US-45/-DSA-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/US-45/-DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/US-45/-DSA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2351-first-letter-to-appear-twice](https://github.com/US-45/-DSA-/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/US-45/-DSA-/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/US-45/-DSA-/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/US-45/-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/US-45/-DSA-/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/US-45/-DSA-/tree/master/3863-minimum-operations-to-sort-a-string) |
