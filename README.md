@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/US-45/-DSA-/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/US-45/-DSA-/tree/master/1089-duplicate-zeros) |
+| [1254-number-of-closed-islands](https://github.com/US-45/-DSA-/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/US-45/-DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/US-45/-DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/US-45/-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/US-45/-DSA-/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/US-45/-DSA-/tree/master/1254-number-of-closed-islands) |
 ## Enumeration
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/US-45/-DSA-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/US-45/-DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -394,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/US-45/-DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/US-45/-DSA-/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/US-45/-DSA-/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
