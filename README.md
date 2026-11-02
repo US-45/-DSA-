@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/US-45/-DSA-/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/US-45/-DSA-/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/US-45/-DSA-/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/US-45/-DSA-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/US-45/-DSA-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/US-45/-DSA-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/US-45/-DSA-/tree/master/0075-sort-colors) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/US-45/-DSA-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/US-45/-DSA-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/US-45/-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/US-45/-DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/US-45/-DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/US-45/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/US-45/-DSA-/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/US-45/-DSA-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/US-45/-DSA-/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/US-45/-DSA-/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/US-45/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
