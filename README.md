@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/US-45/-DSA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/US-45/-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/US-45/-DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/US-45/-DSA-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/US-45/-DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2460-apply-operations-to-an-array](https://github.com/US-45/-DSA-/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/US-45/-DSA-/tree/master/2574-left-and-right-sum-differences) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/US-45/-DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/US-45/-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/US-45/-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/US-45/-DSA-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/US-45/-DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/US-45/-DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/US-45/-DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/US-45/-DSA-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/US-45/-DSA-/tree/master/0229-majority-element-ii) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/US-45/-DSA-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/US-45/-DSA-/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
