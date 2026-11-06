@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/US-45/-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/US-45/-DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/US-45/-DSA-/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/US-45/-DSA-/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
