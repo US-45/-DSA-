@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/US-45/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/US-45/-DSA-/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/US-45/-DSA-/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/US-45/-DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/US-45/-DSA-/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/US-45/-DSA-/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/US-45/-DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/US-45/-DSA-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/US-45/-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/US-45/-DSA-/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/US-45/-DSA-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
