@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/US-45/-DSA-/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/US-45/-DSA-/tree/master/3925-concatenate-array-with-reverse) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/US-45/-DSA-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3978-unique-middle-element](https://github.com/US-45/-DSA-/tree/master/3978-unique-middle-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/US-45/-DSA-/tree/master/0229-majority-element-ii) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/US-45/-DSA-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/US-45/-DSA-/tree/master/2351-first-letter-to-appear-twice) |
+| [3978-unique-middle-element](https://github.com/US-45/-DSA-/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
