@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/US-45/-DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/US-45/-DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/US-45/-DSA-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/US-45/-DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/US-45/-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/US-45/-DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/US-45/-DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/US-45/-DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/US-45/-DSA-/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/US-45/-DSA-/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/US-45/-DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/US-45/-DSA-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/US-45/-DSA-/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/US-45/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/US-45/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/US-45/-DSA-/tree/master/1652-defuse-the-bomb) |
+| [3364-minimum-positive-sum-subarray](https://github.com/US-45/-DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
 | ------- |
